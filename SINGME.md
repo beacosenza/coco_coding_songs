@@ -1,3 +1,4 @@
 # CoCo Despacito
 Pasito a pasito, suave suavecito
-verso 2
+Vamos programando poquito a poquito
+Cuando tecleas con esa destreza
